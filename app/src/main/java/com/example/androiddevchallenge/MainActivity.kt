@@ -171,7 +171,7 @@ fun Login(navController: NavController) {
                 modifier = Modifier
                     .fillMaxWidth()
                     .fillMaxHeight(),
-                imageVector = ImageVector.vectorResource(id = R.drawable.ic_welcome),
+                imageVector = ImageVector.vectorResource(id = R.drawable.ic_login),
                 contentDescription = null,
                 contentScale = ContentScale.Crop
             )
